@@ -1,0 +1,16 @@
+.callback-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.loading {
+    font-size: 18px;
+    color: #666;
+}
+
+.error {
+    color: #ff4d4f;
+    font-size: 16px;
+}

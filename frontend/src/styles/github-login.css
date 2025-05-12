@@ -1,0 +1,29 @@
+.github-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.github-btn {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #24292e;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.github-btn:hover {
+    background-color: #2f363d;
+}
+
+.github-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
